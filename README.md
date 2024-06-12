@@ -1,6 +1,6 @@
 - ## Hi there,
 
-- #### Shirley Agbaowe
+- #### I am Shirley Agbaowe
 
 - 👀 I’m interested in buidlding a careerpath in tech...
 - 🌱 I’m currently learning data analysis course with Dahel Tech Institute
