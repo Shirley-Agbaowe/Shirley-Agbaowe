@@ -10,10 +10,11 @@
 - ⚡ Fun fact: ... i love to visualize data in colours to give actionable results and everything environmental manangement to preserve the planet earth.
 
 
-#My skill set include
-##-Excel
-##-Power Bi
-##-Tableau
+# My skill set Include
+- Excel
+- Power Bi
+- Tableau
+- SQL
 
 
   
